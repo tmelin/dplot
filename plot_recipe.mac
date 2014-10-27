@@ -1,0 +1,4 @@
+#List your own possible plot settings here
+#set terminal wxt persist
+#set xdata time
+#set timefmt "%Y-%m-%d-%H:%M:%S"

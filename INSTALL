@@ -1,0 +1,19 @@
+INSTALL instructions for DPlot
+03102014 FITOMEL
+
+DPlot is only a wrapper for gnuplot(www.gnuplot.info) to more easily plot trends and data collected with various datalogging tools. 
+This first time you use DPlot you therefore need to first install gnuplot on your computer.
+At later updates, it is enough to simply update the DPlot program file.
+
+1. Install gnuplot found in the same folder (gpXXX-win32-setup.exe) as these instruction.
+The wizard opens and you are free to install gnuplot to an location of your own choice.
+In the window "Select additional tasks", make sure to have  add application directory to PATH environment variable selected.
+Install using default values provided in the wizard. It might give warnings about some userdoc folder not
+found, but the warning is not critical. After the installation, you are free to delete the setup installation file.
+
+2. Start DPlotXXX.pyw by double clicking. Open you first logger file from file->menu
+
+
+
+
+
